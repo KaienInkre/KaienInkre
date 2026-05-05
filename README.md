@@ -6,22 +6,21 @@
 
 <br>
 
+<!-- Контакты -->
 <a href="https://t.me/Kaien_Ink">
-<img src="https://img.shields.io/badge/Telegram-7c3aed?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram-7c3aed?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-
 <a href="https://discord.com/users/1151791202606264330">
-<img src="https://img.shields.io/badge/Discord-7c3aed?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-7c3aed?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-
 <a href="https://music.yandex.ru/playlists/lk.7313e3fd-c13a-4bb4-8d44-eae83b281bac">
-<img src="https://img.shields.io/badge/Yandex%20Music-FF00FF?style=for-the-badge&logo=yandex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yandex%20Music-FF00FF?style=for-the-badge&logo=yandex&logoColor=white"/>
 </a>
-
 <a href="https://github.com/KaienInkre">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=A855F7"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=A855F7"/>
 </a>
 
+<br>
 <img src="https://komarev.com/ghpvc/?username=KaienInkre&style=for-the-badge&color=7c3aed"/>
 
 </div>
@@ -89,6 +88,7 @@ mindset:
 <img src="https://img.shields.io/badge/ChatGPT-0d1117?style=for-the-badge&logo=openai&logoColor=A855F7"/>
 <img src="https://img.shields.io/badge/DeepSeek-0d1117?style=for-the-badge&logoColor=A855F7"/>
 <img src="https://img.shields.io/badge/Grok-0d1117?style=for-the-badge&logo=x&logoColor=A855F7"/>
+
 <img src="https://img.shields.io/badge/Qwen-0d1117?style=for-the-badge&logoColor=A855F7"/>
 <img src="https://img.shields.io/badge/Kimi-0d1117?style=for-the-badge&logoColor=A855F7"/>
 <img src="https://img.shields.io/badge/Perplexity-0d1117?style=for-the-badge&logo=perplexity&logoColor=A855F7"/>
