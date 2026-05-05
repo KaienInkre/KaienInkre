@@ -14,101 +14,35 @@
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center"><h3>𓆩⚝𓆪 &nbsp; whoami</h3></div>
 
-```yaml
-handle:    KaienInkre
-age:       17
-location:  Novosibirsk, Russia 🇷🇺
-timezone:  UTC+7
-
-core_skill: Telegram Bot Development (aiogram 3.x, Python async)
-
-specializations:
-  - TGS / Lottie animated sticker recoloring & manipulation
-  - exteraGram (Telegram Android mod) plugins via Chaquopy
-  - Multi-provider AI routing (OpenRouter, LiteLLM, fallback chains)
-  - TON blockchain · CryptoBot · Telegram Stars payments
-  - Modern web interfaces & Telegram Mini Apps
-
-tools:     Python · aiogram · SQLite · HTML/CSS/JS · Termux · Git
-mindset:   build → experiment → ship → iterate
+```python
+class KaienInkre:
+    age        = 17
+    location   = "Novosibirsk, Russia 🇷🇺"
+    focus      = ["Telegram bots", "TGS/Lottie manipulation", "exteraGram plugins", "AI routing"]
+    stack      = ["Python", "aiogram 3.x", "HTML/CSS/JS", "SQLite", "TON"]
+    platforms  = ["Termux / Android", "BotHost", "GitHub Actions"]
+    building   = "NGL-style anonymous bot with premium monetization"
+    mindset    = "build → experiment → ship → iterate"
 ```
 
 ---
 
 <div align="center"><h3>𓆩⚝𓆪 &nbsp; Projects</h3></div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h4>🎨 TGS Painter</h4>
-Telegram bot for recoloring animated stickers. Full TGS/Lottie color manipulation engine, SVG parsing, photo vectorization, inline keyboard navigation.<br/><br/>
-<code>9 000+ lines</code>&nbsp;<code>aiogram 3</code>&nbsp;<code>Lottie/TGS</code>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>⭐ <a href="https://t.me/KaienStarsBot">KaienStars</a></h4>
-Digital goods shop via Telegram Stars. Custom UI/UX, promo codes, referral bonuses, media message handling, category system.<br/><br/>
-<code>aiogram 3</code>&nbsp;<code>Stars API</code>&nbsp;<code>SQLite</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h4>💫 StarDrop</h4>
-Referral & Stars-earning bot with anti-fraud withdrawal routing, admin panel, two-phase PiarFlow integration (v1 → v2 rewrite).<br/><br/>
-<code>aiogram 3</code>&nbsp;<code>FSM</code>&nbsp;<code>PiarFlow API</code>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>⚔️ TonArena</h4>
-P2P TON dueling bot. Atomic DB transactions, CryptoBot/xRocket payment integrations, bilingual RU/EN, full FSM flows.<br/><br/>
-<code>aiogram 3</code>&nbsp;<code>TON</code>&nbsp;<code>CryptoBot API</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h4>🤖 Pulse AI</h4>
-Multi-provider AI router. OpenRouter fallback chain architecture, LiteLLM, Cyrillic-safe processing, per-user model selector.<br/><br/>
-<code>aiogram 3</code>&nbsp;<code>LiteLLM</code>&nbsp;<code>OpenRouter</code>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>💻 <a href="https://t.me/CursorAIRobot">AI Code Editor Bot</a></h4>
-In-Telegram code editor with multi-LLM backend, admin model management, file input/output handling.<br/><br/>
-<code>aiogram 3</code>&nbsp;<code>multi-LLM</code>&nbsp;<code>FSM</code>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h4>🔌 exteraGram Plugins</h4>
-Python plugins for Telegram Android mod. Xposed/Chaquopy hooks, NFT gift spoofing, glassmorphism UI, SQL injection into TG internals.<br/><br/>
-<code>Python</code>&nbsp;<code>Chaquopy</code>&nbsp;<code>Java reflection</code>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>🃏 KaienHub</h4>
-Portfolio & contact bot. Showcases projects, links, and services via clean inline keyboard navigation.<br/><br/>
-<code>aiogram 3</code>&nbsp;<code>inline KB</code>&nbsp;<code>SQLite</code>
-
-</td>
-</tr>
-</table>
+| | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 🎨 | **TGS Painter** | Animated sticker recoloring engine. TGS/Lottie manipulation, SVG parsing, photo vectorization | `aiogram 3` `Lottie/TGS` `SVG` |
+| ⭐ | **[KaienStars](https://t.me/KaienStarsBot)** | Digital goods shop via Telegram Stars. Promo codes, referrals, category system | `aiogram 3` `Stars API` `SQLite` |
+| 💫 | **StarDrop** | Stars-earning referral bot with anti-fraud routing and admin panel | `aiogram 3` `FSM` `PiarFlow` |
+| ⚔️ | **TonArena** | P2P TON dueling bot. CryptoBot/xRocket payments, bilingual RU/EN | `aiogram 3` `TON` `CryptoBot` |
+| 🤖 | **Pulse AI** | Multi-provider AI router with OpenRouter fallback chain & model selector | `aiogram 3` `LiteLLM` `OpenRouter` |
+| 💻 | **[AI Code Editor](https://t.me/CursorAIRobot)** | In-Telegram code editor with multi-LLM backend and admin model management | `aiogram 3` `multi-LLM` |
+| 🔌 | **exteraGram Plugins** | Xposed/Chaquopy hooks, NFT gift spoofing, glassmorphism UI for TG Android mod | `Python` `Chaquopy` `Java reflect` |
+| 🃏 | **KaienHub** | Portfolio & contact bot with inline keyboard navigation | `aiogram 3` `inline KB` |
 
 ---
 
@@ -118,29 +52,15 @@ Portfolio & contact bot. Showcases projects, links, and services via clean inlin
 
 <br/>
 
-**— Backend & Bots —**
-
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7)
 ![aiogram](https://img.shields.io/badge/aiogram_3.x-0d1117?style=for-the-badge&logo=telegram&logoColor=A855F7)
 ![asyncio](https://img.shields.io/badge/asyncio-0d1117?style=for-the-badge&logo=python&logoColor=A855F7)
 ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=A855F7)
-
-<br/>
-
-**— Web & Mini Apps —**
-
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=A855F7)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=A855F7)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=A855F7)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=A855F7)
-
-<br/>
-
-**— Platforms & Tools —**
-
 ![Linux](https://img.shields.io/badge/Termux%20%2F%20Linux-0d1117?style=for-the-badge&logo=linux&logoColor=A855F7)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=A855F7)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=A855F7)
 ![Android](https://img.shields.io/badge/Android%20%2F%20Chaquopy-0d1117?style=for-the-badge&logo=android&logoColor=A855F7)
 
 </div>
@@ -153,13 +73,13 @@ Portfolio & contact bot. Showcases projects, links, and services via clean inlin
 
 <br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=KaienInkre&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c084fc"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaienInkre&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c084fc"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaienInkre&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaienInkre&theme=tokyonight&utcOffset=7"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=KaienInkre&theme=transparent&hide_border=true&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=c084fc&dates=6b7280&stroke=7c3aed&background=0d1117"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaienInkre&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaienInkre&theme=tokyonight"/>
 
 <br/><br/>
 
@@ -167,15 +87,7 @@ Portfolio & contact bot. Showcases projects, links, and services via clean inlin
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KaienInkre&theme=tokyonight"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaienInkre&theme=tokyonight"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaienInkre&theme=tokyonight&utcOffset=7"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaienInkre&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=8B5CF6&point=C084FC&area=true"/>
+<img src="https://streak-stats.demolab.com?user=KaienInkre&theme=tokyonight&hide_border=true&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=c084fc&dates=6b7280&background=0d1117"/>
 
 </div>
 
@@ -188,7 +100,7 @@ Portfolio & contact bot. Showcases projects, links, and services via clean inlin
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaienInkre/KaienInkre/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaienInkre/KaienInkre/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/KaienInkre/KaienInkre/output/github-contribution-grid-snake-dark.svg"/>
+  <img width="100%" alt="github contribution snake" src="https://raw.githubusercontent.com/KaienInkre/KaienInkre/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
