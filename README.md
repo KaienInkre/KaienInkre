@@ -18,17 +18,19 @@
 
 <div align="center"><h3>𓆩⚝𓆪 &nbsp; О себе</h3></div>
 
-```python
-class KaienInkre:
-    возраст   = 17
-    локация   = "Новосибирск, Россия 🇷🇺"
-    timezone  = "UTC+7"
-    фокус     = ["Telegram боты", "TGS/Lottie анимации", "exteraGram плагины", "AI-роутинг"]
-    стек      = ["Python", "aiogram 3.x", "HTML / CSS / JS", "SQLite"]
-    окружение = ["Termux / Android", "BotHost", "GitHub Actions"]
-    строю     = "Анонимный NGL-бот с премиум-монетизацией"
-    принцип   = "build → experiment → ship"
-```
+<div align="center">
+
+| | |
+|:--:|:--|
+| 🧑‍💻 | 17 лет · Новосибирск, Россия 🇷🇺 · UTC+7 |
+| 🤖 | Разрабатываю **Telegram-боты** на aiogram 3.x |
+| 🎨 | TGS / Lottie движок — перекраска анимированных стикеров |
+| 🔌 | Плагины для **exteraGram** (Android мод) через Chaquopy + Java reflection |
+| 🧠 | Multi-provider **AI-роутинг** с fallback-цепочками |
+| ⚙️ | Работаю в **Termux** на Android · деплой на BotHost |
+| 🚀 | Строю: **NGL-стайл анонимный бот** с Premium-монетизацией |
+
+</div>
 
 ---
 
@@ -38,20 +40,7 @@ class KaienInkre:
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,react,git,linux&theme=dark&perline=8"/>
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=A855F7)
-![aiogram](https://img.shields.io/badge/aiogram_3.x-0d1117?style=for-the-badge&logo=telegram&logoColor=A855F7)
-![asyncio](https://img.shields.io/badge/asyncio-0d1117?style=for-the-badge&logo=python&logoColor=A855F7)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=A855F7)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=A855F7)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=A855F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=A855F7)
-![Linux](https://img.shields.io/badge/Termux%20%2F%20Linux-0d1117?style=for-the-badge&logo=linux&logoColor=A855F7)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=A855F7)
-![Android](https://img.shields.io/badge/Android%20%2F%20Chaquopy-0d1117?style=for-the-badge&logo=android&logoColor=A855F7)
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,sqlite,git,linux,github,androidstudio&theme=dark&perline=10"/>
 
 </div>
 
@@ -80,29 +69,25 @@ class KaienInkre:
 
 <div align="center">
 
-<h3>𓆩⚝𓆪 &nbsp; Вклад</h3>
+<h3>𓆩⚝𓆪 &nbsp; Активность</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaienInkre/KaienInkre/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaienInkre/KaienInkre/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/KaienInkre/KaienInkre/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaienInkre&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=8B5CF6&point=C084FC&area=true"/>
 
 </div>
 
 ---
 
+<div align="center"><h3>𓆩⚝𓆪 &nbsp; Сейчас строю</h3></div>
+
 <div align="center">
 
-<h3>𓆩⚝𓆪 &nbsp; Сейчас строю</h3>
+| Проект | Статус |
+|:--|:--:|
+| 🕵️ Анонимный NGL-бот с Premium-монетизацией | ![In Progress](https://img.shields.io/badge/в_работе-A855F7?style=flat-square) |
+| 🔌 Новые плагины для exteraGram (NFT-подарки, UI-хуки) | ![In Progress](https://img.shields.io/badge/в_работе-7c3aed?style=flat-square) |
+| 🎨 TGS Painter — расширение режимов векторизации | ![Expanding](https://img.shields.io/badge/расширяется-6d28d9?style=flat-square) |
 
 </div>
-
-```
-◈  Анонимный NGL-бот с платными премиум-функциями
-◈  Новые плагины для exteraGram (NFT-подарки, кастомный UI)
-◈  TGS Painter — расширение режимов векторизации
-```
 
 ---
 
