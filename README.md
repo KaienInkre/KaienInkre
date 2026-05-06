@@ -61,7 +61,8 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=KaienInkre&theme=tokyonight&hide_border=true&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=c084fc&dates=6b7280&background=0d1117"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaienInkre&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c084fc"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaienInkre&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c084fc"/>
 
 </div>
 
