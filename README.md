@@ -1,47 +1,43 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Kaien Ink — Build. Experiment. Improve."/>
+<img src="assets/banner.svg" width="100%" alt="Kaien — Even the night will end."/>
 
-**Telegram-боты · веб-интерфейсы · AI-воркфлоу**
+<br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Kaien__Ink-7c3aed?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a0538)](https://t.me/Kaien_Ink)
-[![Discord](https://img.shields.io/badge/Discord-kaieninkre-7c3aed?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a0538)](https://discord.com/users/1151791202606264330)
+<sub>**Telegram-боты · веб-интерфейсы · AI-воркфлоу**</sub>
+
+<br/><br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Kaien__Ink-18181b?style=for-the-badge&logo=telegram&logoColor=white&labelColor=18181b)](https://t.me/Kaien_Ink)
+[![Discord](https://img.shields.io/badge/Discord-kaieninkre-18181b?style=for-the-badge&logo=discord&logoColor=white&labelColor=18181b)](https://discord.com/users/1151791202606264330)
+
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
-<br/>
+### Что строю
 
-## Чем занимаюсь
+| | |
+|:--|:--|
+| **Telegram-боты** | aiogram 3.x · Telegram Stars · подписки · админки |
+| **TGS / Lottie** | перекраска и векторизация анимированных стикеров |
+| **exteraGram** | плагины на Python через Chaquopy + Java reflection |
+| **AI-роутинг** | несколько провайдеров, fallback-цепочки |
 
-- 🤖 **Telegram-боты** на aiogram 3.x: платежи через Telegram Stars, подписки, админки
-- 🎨 **TGS / Lottie**: движок перекраски и векторизации анимированных стикеров
-- 🔌 **Плагины для exteraGram**: Python через Chaquopy + Java reflection
-- 🧠 **AI-роутинг**: несколько провайдеров с fallback-цепочками
+### В работе
 
-Всё пишу и запускаю с телефона: **Termux** + деплой на **BotHost**.
+- **Анонимный NGL-бот** — Premium-подписка
+- **Плагины exteraGram** — NFT-подарки, UI-хуки
+- **TGS Painter** — новые режимы векторизации
 
-<br/>
+### Стек
 
-## Сейчас в работе
-
-> 🕵️ **Анонимный NGL-бот** с Premium-подпиской
-> 🔌 **Новые плагины exteraGram**: NFT-подарки, UI-хуки
-> 🎨 **TGS Painter**: новые режимы векторизации
-
-<br/>
-
-## Стек
+`Python` `aiogram` `Java` `JavaScript` `HTML/CSS` `React` `SQLite` `Bash` `Git` `Linux` `Termux`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,sqlite,bash,git,linux&theme=dark&perline=10" alt="Tech stack"/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<sub>Build. Experiment. Improve.</sub>
+<sub>FOCUS · IMPROVE · ACHIEVE</sub>
 
 </div>
