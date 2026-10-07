@@ -1,43 +1,100 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Kaien — Even the night will end."/>
+# KAIEN INK
 
-<br/>
+### Building tools, bots and experiments that are actually useful.
 
-<sub>**Telegram-боты · веб-интерфейсы · AI-воркфлоу**</sub>
-
-<br/><br/>
-
-[![Telegram](https://img.shields.io/badge/Telegram-@Kaien__Ink-18181b?style=for-the-badge&logo=telegram&logoColor=white&labelColor=18181b)](https://t.me/Kaien_Ink)
-[![Discord](https://img.shields.io/badge/Discord-kaieninkre-18181b?style=for-the-badge&logo=discord&logoColor=white&labelColor=18181b)](https://discord.com/users/1151791202606264330)
-
-<img src="assets/divider.svg" width="100%" alt=""/>
+[![Telegram](https://img.shields.io/badge/Telegram-%40Kaien__Ink-111318?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kaien_Ink)
+[![Discord](https://img.shields.io/badge/Discord-Kaien-111318?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1151791202606264330)
+[![GitHub](https://img.shields.io/badge/GitHub-KaienInkre-111318?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaienInkre)
 
 </div>
 
-### Что строю
+---
 
-| | |
-|:--|:--|
-| **Telegram-боты** | aiogram 3.x · Telegram Stars · подписки · админки |
-| **TGS / Lottie** | перекраска и векторизация анимированных стикеров |
-| **exteraGram** | плагины на Python через Chaquopy + Java reflection |
-| **AI-роутинг** | несколько провайдеров, fallback-цепочки |
+## `~/about`
 
-### В работе
+I build practical software around **Telegram, Android, automation and AI**.
 
-- **Анонимный NGL-бот** — Premium-подписка
-- **Плагины exteraGram** — NFT-подарки, UI-хуки
-- **TGS Painter** — новые режимы векторизации
+My projects usually start with a simple question:
 
-### Стек
+> **Can this be made cleaner, faster or more useful?**
 
-`Python` `aiogram` `Java` `JavaScript` `HTML/CSS` `React` `SQLite` `Bash` `Git` `Linux` `Termux`
+I like polished interfaces, lightweight tools and systems that work well on real devices.
 
-<div align="center">
+---
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+## What I build
 
-<sub>FOCUS · IMPROVE · ACHIEVE</sub>
+<table>
+<tr>
+<td width="50%">
 
-</div>
+### Telegram
+Bots, subscriptions, admin panels, utilities and automation with **aiogram 3.x**.
+
+</td>
+<td width="50%">
+
+### Android
+Native tools, Telegram integrations, UI experiments and mobile utilities.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Automation
+Scripts and workflows for repetitive tasks, APIs and personal tooling.
+
+</td>
+<td width="50%">
+
+### AI
+Provider routing, fallback chains, coding workflows and small AI-powered tools.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected projects
+
+### [TG WS Proxy Android](https://github.com/KaienInkre/tg-ws-proxy-android)
+
+Android MTProto / WebSocket proxy focused on a modern Material 3 + Jetpack Compose experience.
+
+`Kotlin` `Go` `Jetpack Compose` `Android`
+
+### [Core-Termux](https://github.com/KaienInkre/core-termux)
+
+A modular developer environment for Termux with languages, databases, editors, AI tools and automation.
+
+`Shell` `Linux` `Termux` `CLI`
+
+### [Yandex Music Export Bot](https://github.com/KaienInkre/yme_classic_bot)
+
+Telegram bot for exporting Yandex Music playlists and liked tracks to `.txt`.
+
+`Python` `aiogram` `Telegram` `OAuth`
+
+---
+
+## Current focus
+
+```text
+Telegram bots
+├── premium subscriptions
+├── admin tools
+└── practical automation
+
+Android
+├── Telegram-side experiments
+├── UI / UX
+└── lightweight utilities
+
+AI
+├── provider routing
+├── fallbacks
+└── developer workflows
