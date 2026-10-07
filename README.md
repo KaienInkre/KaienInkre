@@ -1,105 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=KaienInkre&fontAlign=50&fontAlignY=40&color=0:050010,40:130030,100:0d0020&fontColor=d8b4fe&fontSize=64&animation=fadeIn&desc=Telegram+Bot+Developer+%E2%80%A2+Python+%E2%80%A2+AI+Workflows&descAlign=50&descAlignY=62&descSize=15&descColor=9333ea"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=KaienInkre&fontSize=70&fontColor=e9d5ff&color=0:050010,50:1a0538,100:2e1065&stroke=a855f7&strokeWidth=1&fontAlignY=42&desc=Telegram%20bots%20%E2%80%A2%20Python%20%E2%80%A2%20AI%20workflows&descSize=17&descColor=c084fc&descAlignY=64&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=Telegram+Bot+Developer+%7C+aiogram+3.x;TGS+%2F+Lottie+animated+sticker+engine;exteraGram+plugins+via+Chaquopy+%2B+Python;Multi-provider+AI+routing+%26+fallback+chains;Telegram+Stars+%2F+inline+payments"/>
-
-<br/>
-
-[![Telegram](https://img.shields.io/badge/Telegram-%40Kaien__Ink-7c3aed?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kaien_Ink)
-&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-kaieninkre-7c3aed?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1151791202606264330)
-&nbsp;
-[![Views](https://komarev.com/ghpvc/?username=KaienInkre&style=for-the-badge&color=7c3aed&label=ПРОСМОТРЫ)](https://github.com/KaienInkre)
-
-</div>
-
----
-
-<div align="center"><h3>𓆩⚝𓆪 &nbsp; О себе</h3></div>
-
-<div align="center">
-
-| | |
-|:--:|:--|
-| 🧑‍💻 | 17 лет · Новосибирск, Россия 🇷🇺 · UTC+7 |
-| 🤖 | Разрабатываю **Telegram-боты** на aiogram 3.x |
-| 🎨 | TGS / Lottie движок — перекраска анимированных стикеров |
-| 🔌 | Плагины для **exteraGram** (Android мод) через Chaquopy + Java reflection |
-| 🧠 | Multi-provider **AI-роутинг** с fallback-цепочками |
-| ⚙️ | Работаю в **Termux** на Android · деплой на BotHost |
-| 🚀 | Строю: **NGL-стайл анонимный бот** с Premium-монетизацией |
-
-</div>
-
----
-
-<div align="center">
-
-<h3>𓆩⚝𓆪 &nbsp; Технологии</h3>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,sqlite,git,linux,github,androidstudio&theme=dark&perline=10"/>
-
-</div>
-
----
-
-<div align="center">
-
-<h3>𓆩⚝𓆪 &nbsp; Статистика GitHub</h3>
-
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaienInkre&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KaienInkre&theme=tokyonight&utcOffset=7"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=C084FC&center=true&vCenter=true&width=640&height=30&lines=aiogram+3.x+%E2%80%94+Telegram-%D0%B1%D0%BE%D1%82%D1%8B;TGS+%2F+Lottie+%E2%80%94+%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0+%D1%81%D1%82%D0%B8%D0%BA%D0%B5%D1%80%D0%BE%D0%B2;exteraGram-%D0%BF%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD%D1%8B+%D0%BD%D0%B0+Chaquopy;AI-%D1%80%D0%BE%D1%83%D1%82%D0%B8%D0%BD%D0%B3+%D1%81+fallback-%D1%86%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B0%D0%BC%D0%B8"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaienInkre&theme=tokyonight"/>
+[![Telegram](https://img.shields.io/badge/Telegram-@Kaien__Ink-7c3aed?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a0538)](https://t.me/Kaien_Ink)
+[![Discord](https://img.shields.io/badge/Discord-kaieninkre-7c3aed?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a0538)](https://discord.com/users/1151791202606264330)
+[![Views](https://komarev.com/ghpvc/?username=KaienInkre&style=for-the-badge&color=7c3aed&labelColor=1a0538&label=VIEWS)](https://github.com/KaienInkre)
+
+</div>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaienInkre&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c084fc"/>
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaienInkre&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c084fc"/>
+## ✦ Обо мне
 
-</div>
+Делаю **Telegram-ботов** на aiogram 3.x, ковыряю анимированные стикеры и пишу плагины для Android-клиентов. Всё разрабатываю прямо с телефона: **Termux**, деплой на **BotHost**.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+**🤖 Боты**<br/>
+aiogram 3.x, платежи через Telegram Stars и инлайн-оплату
 
-<h3>𓆩⚝𓆪 &nbsp; Активность</h3>
+</td>
+<td width="50%" valign="top">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaienInkre&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=8B5CF6&point=C084FC&area=true"/>
+**🎨 TGS / Lottie**<br/>
+движок перекраски анимированных стикеров, векторизация
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+**🔌 exteraGram**<br/>
+плагины на Python через Chaquopy + Java reflection
 
-<div align="center"><h3>𓆩⚝𓆪 &nbsp; Сейчас строю</h3></div>
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+**🧠 AI-роутинг**<br/>
+несколько провайдеров, fallback-цепочки
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ✦ Сейчас строю
 
 | Проект | Статус |
-|:--|:--:|
-| 🕵️ Анонимный NGL-бот с Premium-монетизацией | ![In Progress](https://img.shields.io/badge/в_работе-A855F7?style=flat-square) |
-| 🔌 Новые плагины для exteraGram (NFT-подарки, UI-хуки) | ![In Progress](https://img.shields.io/badge/в_работе-7c3aed?style=flat-square) |
-| 🎨 TGS Painter — расширение режимов векторизации | ![Expanding](https://img.shields.io/badge/расширяется-6d28d9?style=flat-square) |
+|:--|:--|
+| 🕵️ Анонимный NGL-бот с Premium-подпиской | ![](https://img.shields.io/badge/в_работе-a855f7?style=flat-square&labelColor=1a0538) |
+| 🔌 Плагины для exteraGram: NFT-подарки, UI-хуки | ![](https://img.shields.io/badge/в_работе-7c3aed?style=flat-square&labelColor=1a0538) |
+| 🎨 TGS Painter: новые режимы векторизации | ![](https://img.shields.io/badge/расширяется-6d28d9?style=flat-square&labelColor=1a0538) |
 
-</div>
+<br/>
 
----
+## ✦ Стек
 
 <div align="center">
 
-[![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-7c3aed?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kaien_Ink)
-&nbsp;
-[![Все репозитории](https://img.shields.io/badge/Все_репозитории-0d1117?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/KaienInkre?tab=repositories)
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,sqlite,git,linux,github&theme=dark&perline=10"/>
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:050010,40:130030,100:0d0026"/>
+<br/>
+
+## ✦ GitHub в цифрах
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaienInkre&theme=dracula"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KaienInkre&theme=dracula"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaienInkre&theme=tokyo-night&hide_border=true&bg_color=0d0020&color=c084fc&line=a855f7&point=e9d5ff&area=true&area_color=7c3aed"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Написать в Telegram](https://img.shields.io/badge/Написать_в_Telegram-7c3aed?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a0538)](https://t.me/Kaien_Ink)
+[![Репозитории](https://img.shields.io/badge/Все_репозитории-1a0538?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/KaienInkre?tab=repositories)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:2e1065,50:1a0538,100:050010"/>
 
 </div>
