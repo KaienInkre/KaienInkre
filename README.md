@@ -1,100 +1,23 @@
 <div align="center">
 
-# KAIEN INK
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Привет, я KaienInkre"></picture>
 
-### Building tools, bots and experiments that are actually useful.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40Kaien__Ink-111318?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kaien_Ink)
-[![Discord](https://img.shields.io/badge/Discord-Kaien-111318?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1151791202606264330)
-[![GitHub](https://img.shields.io/badge/GitHub-KaienInkre-111318?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaienInkre)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="Обо мне"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Стек"></picture>
+
+<a href="https://github.com/KaienInkre/KaienInkre"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-kaieninkre-dark.svg"><img src="assets/project-kaieninkre-light.svg" width="49%" alt="KaienInkre"></picture></a>&nbsp;<a href="https://github.com/KaienInkre/GiftForge"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-giftforge-dark.svg"><img src="assets/project-giftforge-light.svg" width="49%" alt="GiftForge"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Серия"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Мой сайт"></picture></a>&nbsp;&nbsp;<a href="https://github.com/KaienInkre?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="Все репозитории"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=KaienInkre"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
-
----
-
-## `~/about`
-
-I build practical software around **Telegram, Android, automation and AI**.
-
-My projects usually start with a simple question:
-
-> **Can this be made cleaner, faster or more useful?**
-
-I like polished interfaces, lightweight tools and systems that work well on real devices.
-
----
-
-## What I build
-
-<table>
-<tr>
-<td width="50%">
-
-### Telegram
-Bots, subscriptions, admin panels, utilities and automation with **aiogram 3.x**.
-
-</td>
-<td width="50%">
-
-### Android
-Native tools, Telegram integrations, UI experiments and mobile utilities.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Automation
-Scripts and workflows for repetitive tasks, APIs and personal tooling.
-
-</td>
-<td width="50%">
-
-### AI
-Provider routing, fallback chains, coding workflows and small AI-powered tools.
-
-</td>
-</tr>
-</table>
-
----
-
-## Selected projects
-
-### [TG WS Proxy Android](https://github.com/KaienInkre/tg-ws-proxy-android)
-
-Android MTProto / WebSocket proxy focused on a modern Material 3 + Jetpack Compose experience.
-
-`Kotlin` `Go` `Jetpack Compose` `Android`
-
-### [Core-Termux](https://github.com/KaienInkre/core-termux)
-
-A modular developer environment for Termux with languages, databases, editors, AI tools and automation.
-
-`Shell` `Linux` `Termux` `CLI`
-
-### [Yandex Music Export Bot](https://github.com/KaienInkre/yme_classic_bot)
-
-Telegram bot for exporting Yandex Music playlists and liked tracks to `.txt`.
-
-`Python` `aiogram` `Telegram` `OAuth`
-
----
-
-## Current focus
-
-```text
-Telegram bots
-├── premium subscriptions
-├── admin tools
-└── practical automation
-
-Android
-├── Telegram-side experiments
-├── UI / UX
-└── lightweight utilities
-
-AI
-├── provider routing
-├── fallbacks
-└── developer workflows
